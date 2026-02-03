@@ -5,13 +5,13 @@
       "id": "vehicles",
       "name": "Vehicles",
       "json": "vehicles.json",
-      "icon": "directions_bus_filled_rounded"
+      "icon": "vehicle"
     },
     {
       "id": "livery",
       "name": "Livery",
       "json": "livery.json",
-      "icon": "format_paint"
+      "icon": "flivery"
     },
     {
       "id": "traffic",
@@ -23,7 +23,7 @@
       "id": "horns",
       "name": "Horns",
       "json": "",
-      "icon": "directions_bus_filled_rounded"
+      "icon": "horn"
     }
 
   ]
