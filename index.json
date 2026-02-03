@@ -4,22 +4,26 @@
     {
       "id": "vehicles",
       "name": "Vehicles",
-      "json": "vehicles.json"
+      "json": "vehicles.json",
+      "icon": "Icons.directions_bus_filled_rounded"
     },
     {
       "id": "livery",
       "name": "Livery",
-      "json": "livery.json"
+      "json": "livery.json",
+      "icon": "Icons.format_paint"
     },
     {
       "id": "traffic",
       "name": "Traffic",
-      "json": "traffic.json"
+      "json": "traffic.json",
+      "icon": "Icons.traffic"
     },
     {
       "id": "horns",
       "name": "Horns",
-      "json": ""
+      "json": "",
+      "icon": "Icons.campaign"
     }
 
   ]
