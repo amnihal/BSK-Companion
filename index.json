@@ -1,0 +1,20 @@
+{
+  "appVersion": "1.0.0",
+  "categories": [
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "json": "vehicles.json"
+    },
+    {
+      "id": "livery",
+      "name": "Livery",
+      "json": "livery.json"
+    },
+    {
+      "id": "traffic",
+      "name": "Traffic",
+      "json": "traffic.json"
+    }
+  ]
+}

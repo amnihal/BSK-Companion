@@ -1,0 +1,14 @@
+{
+  "category": "vehicles",
+  "items": [
+    {
+      "id": "vehicle_leyland_avtr",
+      "name": "Ashok Leyland avtr",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/vehicle_leyland_avtr.webp",
+      "sizeMB": 15,
+      "price": 0,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/vehicle_leyland_avtr.zip",
+      "updated": "2026-01-31"
+    }
+  ]
+}
