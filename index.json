@@ -11,7 +11,7 @@
       "id": "livery",
       "name": "Livery",
       "json": "livery.json",
-      "icon": "flivery"
+      "icon": "livery"
     },
     {
       "id": "traffic",
