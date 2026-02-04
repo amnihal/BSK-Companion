@@ -9,6 +9,7 @@
       "price": 0,
       "isSecured": true,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/avtr_tipper_dudemods.bsk",
+      "fileName": "",
       "updated": "2026-01-31"
     }
   ]
