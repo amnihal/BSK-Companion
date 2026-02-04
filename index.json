@@ -2,9 +2,9 @@
   "appVersion": "1.0.0",
   "categories": [
     {
-      "id": "vehicles",
-      "name": "Vehicles",
-      "json": "vehicles.json",
+      "id": "vehicle",
+      "name": "Vehicle",
+      "json": "vehicle.json",
       "icon": "vehicle"
     },
     {
@@ -20,10 +20,10 @@
       "icon": "traffic"
     },
     {
-      "id": "horns",
-      "name": "Horns",
-      "json": "",
-      "icon": "horn"
+      "id": "template",
+      "name": "template",
+      "json": "template.json",
+      "icon": "map"
     }
 
   ]
