@@ -2,13 +2,13 @@
   "category": "traffic",
   "items": [
     {
-      "id": "traffic_astra",
-      "name": "Astra Tourist Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/traffic_astra.webp",
+      "id": "Loading",
+      "name": "Loading",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/empty.webp",
       "sizeMB": 12,
-      "price": 30,
+      "price": 999999,
       "isSecured": true,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_astra.zip",
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/empty.jpg",
       "fileName": "traffic_astra.zip",
       "updated": "2026-01-31"
     },
@@ -25,12 +25,12 @@
     },
     {
       "id": "traffic_autorickshaw",
-      "name": "Auto Rickshaw Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto.webp",
+      "name": "Loading",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/empty.webp",
       "sizeMB": 5,
-      "price": 10,
+      "price": 999999,
       "isSecured": true,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_autorickshaw.bsk",
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/empty.jpg",
       "fileName": "traffic_autorickshaw.bsk",
       "updated": "2026-01-31"
     }
