@@ -8,18 +8,18 @@
       "sizeMB": 15,
       "price": 40,
       "isSecured": true,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/avtr_tipper_dudemods.bsk",
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/vehicle/livery_leyland_avtr.zip",
       "fileName": "",
       "updated": "2026-01-31"
     },
     {
-      "id": "avtrv1",
+      "id": "avtrv1_unsecured",
       "name": "Ashok Leyland avtr v1",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/vehicle_leyland_avtr.webp",
       "sizeMB": 15,
       "price": 40,
       "isSecured": false,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/avtr_tipper_dudemods.bsk",
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/vehicle/livery_leyland_avtr.zip",
       "fileName": "",
       "updated": "2026-01-31"
     }
