@@ -15,12 +15,23 @@
     {
       "id": "traffic_jcb_bsk",
       "name": "JCB BSK Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/traffic_jcb_bsk.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb.webp",
       "sizeMB": 5,
       "price": 20,
       "isSecured": false,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_jcb_bsk.bsk",
       "fileName": "traffic_jcb_bsk.bsk",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "traffic_autorickshaw",
+      "name": "Auto Rickshaw Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto.webp",
+      "sizeMB": 5,
+      "price": 20,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_autorickshaw.bsk",
+      "fileName": "traffic_autorickshaw.bsk",
       "updated": "2026-01-31"
     }
   ]
