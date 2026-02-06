@@ -9,18 +9,18 @@
       "price": 0,
       "isSecured": false,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/K2_zed_Whitetemplate.png",
-      "fileName": "",
+      "fileName": "K2_zed_Whitetemplate.png",
       "updated": "2026-01-31"
     },
     {
-      "id": "zeone traffic template",
+      "id": "zedone traffic template",
       "name": "Zedone Traffic Template",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/vehicle_leyland_avtr.webp",
       "sizeMB": 1,
       "price": 0,
       "isSecured": false,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/K2_zed_Whitetemplate.png",
-      "fileName": "",
+      "fileName": "K2_zed_Whitetemplate.png",
       "updated": "2026-01-31"
     }
   ]
