@@ -9,7 +9,7 @@
       "price": 20,
       "isSecured": true,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_astra.zip",
-      "fileName": "",
+      "fileName": "traffic_astra.zip",
       "updated": "2026-01-31"
     },
     {
@@ -20,7 +20,7 @@
       "price": 20,
       "isSecured": false,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_jcb_bsk.bsk",
-      "fileName": "",
+      "fileName": "traffic_jcb_bsk.bsk",
       "updated": "2026-01-31"
     }
   ]
