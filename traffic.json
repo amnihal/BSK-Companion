@@ -2,15 +2,26 @@
   "category": "traffic",
   "items": [
     {
-      "id": "Loading",
-      "name": "Loading",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/empty.webp",
-      "sizeMB": 12,
-      "price": 999999,
-      "isSecured": true,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/empty.jpg",
-      "fileName": "traffic_astra.zip",
-      "updated": "2026-01-31"
+      "id": "traffic_zed1_bsk",
+      "name": "Zedone Beta Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+      "sizeMB": 6,
+      "price": 0,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_k2_zedone.bsk",
+      "fileName": "traffic_k2_zedone.bsk",
+      "updated": "2026-02-08"
+    },
+    {
+      "id": "traffic_zed1_normal_bsk",
+      "name": "Zedone Beta Normal Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta-normal.webp",
+      "sizeMB": 6,
+      "price": 0,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_zedone_k2_normal.bsk",
+      "fileName": "traffic_zedone_k2_normal.bsk",
+      "updated": "2026-02-08"
     },
     {
       "id": "traffic_jcb_bsk",
@@ -21,6 +32,17 @@
       "isSecured": false,
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_jcb_bsk.bsk",
       "fileName": "traffic_jcb_bsk.bsk",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "Loading",
+      "name": "Loading",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/empty.webp",
+      "sizeMB": 12,
+      "price": 999999,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/empty.jpg",
+      "fileName": "traffic_astra.zip",
       "updated": "2026-01-31"
     },
     {
