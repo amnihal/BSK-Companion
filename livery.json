@@ -44,17 +44,6 @@
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/paakkaan-astra.png",
       "fileName": "paakkaan_astra_skin.png",
       "updated": "2026-01-31"
-    },
-    {
-      "id": "cng_auto_skin",
-      "name": "Green CNG Skin For Auto Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/green-auto.webp",
-      "sizeMB": 1,
-      "price": 1,
-      "isSecured": false,
-      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/green-auto.png",
-      "fileName": "green_auto_skin.png",
-      "updated": "2026-01-31"
     }
   ]
 }
