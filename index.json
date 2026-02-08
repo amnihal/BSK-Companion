@@ -1,5 +1,8 @@
 {
   "appVersion": "1.0.3",
+
+  "coinsPerAd": 15,
+
   "categories": [
     {
       "id": "vehicle",
@@ -25,6 +28,5 @@
       "json": "template.json",
       "icon": "map"
     }
-
   ]
 }
