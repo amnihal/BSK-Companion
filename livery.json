@@ -44,6 +44,105 @@
       "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/paakkaan-astra.png",
       "fileName": "paakkaan_astra_skin.png",
       "updated": "2026-01-31"
+    },
+    {
+      "id": "bsk3_beauty_rajagouda",
+      "name": "Beauty Rajagouda Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/beauty_rajagouda.png",
+      "fileName": "bsk3_beauty_rajagouda.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_delmon",
+      "name": "Delmon Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/2.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/delmon.png",
+      "fileName": "bsk3_delmon.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_dorado_sonic",
+      "name": "Dorado Sonic Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/3.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/dorado_sonic.png",
+      "fileName": "bsk3_dorado_sonic.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_dorado_turbo",
+      "name": "Dorado Turbo Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/4.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/dorado_turbo.png",
+      "fileName": "bsk3_dorado_turbo.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_jaiguru_jinn",
+      "name": "Jaiguru Jinn Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/5.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/jaiguru_jinn.png",
+      "fileName": "bsk3_jaiguru_jinn.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_khaleefa_zayd",
+      "name": "Khaleefa Zayd Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/6.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/khaleefa_zayd.png",
+      "fileName": "bsk3_khaleefa_zayd.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_komban_bombay",
+      "name": "Komban Bombay Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/7.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/komban_bombay.png",
+      "fileName": "bsk3_komban_bombay.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_moonlight_wildboy",
+      "name": "Moonlight Wildboy Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/8.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/moonlight_wildboy.png",
+      "fileName": "bsk3_moonlight_wildboy.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_shylock",
+      "name": "Shylock Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/9.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/shylock.png",
+      "fileName": "bsk3_shylock.png",
+      "updated": "2026-02-12"
     }
   ]
 }
