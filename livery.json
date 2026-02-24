@@ -2,6 +2,28 @@
   "category": "livery",
   "items": [
     {
+      "id": "komban_astra_skin",
+      "name": "Komban Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/komban.webp",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/komban.png",
+      "fileName": "zero_astra_skin.png",
+      "updated": "2026-02-24"
+    },
+    {
+      "id": "singam_astra_skin",
+      "name": "Singam Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/singam.jpg",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/singam.png",
+      "fileName": "zero_astra_skin.png",
+      "updated": "2026-02-24"
+    },
+    {
       "id": "zero_astra_skin",
       "name": "Zero Skin For Astra Traffic",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zero.webp",
