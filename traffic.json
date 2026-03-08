@@ -37,7 +37,7 @@
     {
       "id": "traffic_zed1_bsk",
       "name": "Zedone Beta Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTrffic/zedone-beta.webp",
       "sizeMB": 6,
       "price": 40,
       "isSecured": false,
@@ -48,7 +48,7 @@
     {
       "id": "traffic_zed1_normal_bsk",
       "name": "Zedone Beta Normal Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta-normal.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTrffic/zedone-beta-normal.webp",
       "sizeMB": 6,
       "price": 30,
       "isSecured": false,
@@ -59,7 +59,7 @@
     {
       "id": "traffic_jcb_bsk",
       "name": "JCB BSK Traffic",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb/jcb.webp",
       "sizeMB": 5,
       "price": 30,
       "isSecured": false,
