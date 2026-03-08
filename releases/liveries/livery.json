@@ -177,6 +177,68 @@
       ]
     },
     {
+      "id": "zedt",
+      "name": "Zedone Traffic Beta",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/redSingam_k2.webp",
+      "items": [
+        {
+          "id": "singam_zedone_skin",
+          "name": "Singam Skin For Zedone Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/redSingam_k2.webp",
+          "sizeMB": 1,
+          "price": 10,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/zedTraffic/singam.jpg",
+          "fileName": "singam_zedone_skin.jpg",
+          "updated": "2026-03-08"
+        },
+        {
+          "id": "fighters_zedone_skin",
+          "name": "Fighters Skin For Zedone Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/fighters_k2.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/zedTraffic/fighters.jpg",
+          "fileName": "fighters_zedone_skin.jpg",
+          "updated": "2026-03-08"
+        },
+        {
+          "id": "dawood_zedone_skin",
+          "name": "Dawood Skin For Zedone Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/dawood_k2.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/zedTraffic/dawood.jpg",
+          "fileName": "dawood_zedone_skin.jpg",
+          "updated": "2026-03-08"
+        },
+        {
+          "id": "london_zedone_skin",
+          "name": "London Skin For Zedone Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/london_k2.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/zedTraffic/london.jpg",
+          "fileName": "london_zedone_skin.jpg",
+          "updated": "2026-03-08"
+        },
+        {
+          "id": "moonlight_zedone_skin",
+          "name": "Moonlight Skin For Zedone Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/moonlight_k2.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/zedTraffic/moonlight.jpg",
+          "fileName": "moonlight_zedone_skin.jpg",
+          "updated": "2026-03-08"
+        }
+      ]
+    },
+    {
       "id": "bsk3",
       "name": "BSK3",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
