@@ -7,6 +7,17 @@
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
       "items": [
         {
+          "id": "norway_astra_skin",
+          "name": "Norway Skin For Astra Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/norway.webp",
+          "sizeMB": 2,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/norway.png",
+          "fileName": "norway_astra_skin.png",
+          "updated": "2026-02-24"
+        },
+        {
           "id": "komban_astra_skin",
           "name": "Komban Skin For Astra Traffic",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/komban.webp",
@@ -14,18 +25,18 @@
           "price": 5,
           "isSecured": false,
           "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/komban.png",
-          "fileName": "zero_astra_skin.png",
+          "fileName": "komban_astra_skin.png",
           "updated": "2026-02-24"
         },
         {
           "id": "singam_astra_skin",
           "name": "Singam Skin For Astra Traffic",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/singam.jpg",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/singam.webp",
           "sizeMB": 2,
           "price": 5,
           "isSecured": false,
           "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/singam.png",
-          "fileName": "zero_astra_skin.png",
+          "fileName": "singam_astra_skin.png",
           "updated": "2026-02-24"
         },
         {
