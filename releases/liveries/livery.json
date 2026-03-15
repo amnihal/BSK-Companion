@@ -8,7 +8,7 @@
       "items": [
         {
           "id": "norway_astra_skin",
-          "name": "Norway Skin For Astra Traffic",
+          "name": "Norway",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/norway.webp",
           "sizeMB": 7,
           "price": 5,
@@ -18,8 +18,41 @@
           "updated": "2026-02-24"
         },
         {
+          "id": "rajareddy_astra_skin",
+          "name": "Beauty Rajareddy",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/rajareddy.webp",
+          "sizeMB": 5,
+          "price": 20,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/rajareddy.png",
+          "fileName": "Astra_beauty_Rajareddy_skin.png",
+          "updated": "2026-03-01"
+        },
+        {
+          "id": "rajagouda_astra_skin",
+          "name": "Beauty Rajagouda",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/rajagouda.webp",
+          "sizeMB": 7,
+          "price": 20,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/rajagouda.png",
+          "fileName": "Astra_beauty_Rajagouda_skin.png",
+          "updated": "2026-03-01"
+        },
+        {
+          "id": "davood_astra_skin",
+          "name": "Komban Dawood",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/dawood.webp",
+          "sizeMB": 5,
+          "price": 20,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/dawood.png",
+          "fileName": "Astra_komban_dawood_skin.png",
+          "updated": "2026-03-01"
+        },
+        {
           "id": "komban_astra_skin",
-          "name": "Komban Skin For Astra Traffic",
+          "name": "Komban",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/komban.webp",
           "sizeMB": 2,
           "price": 5,
@@ -30,7 +63,7 @@
         },
         {
           "id": "singam_astra_skin",
-          "name": "Singam Skin For Astra Traffic",
+          "name": "Singam",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/singam.webp",
           "sizeMB": 2,
           "price": 5,
@@ -41,7 +74,7 @@
         },
         {
           "id": "zero_astra_skin",
-          "name": "Zero Skin For Astra Traffic",
+          "name": "Zero",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zero.webp",
           "sizeMB": 1,
           "price": 5,
@@ -52,7 +85,7 @@
         },
         {
           "id": "khaleefa_astra_skin",
-          "name": "Khaleefa Skin For Astra Traffic",
+          "name": "Khaleefa",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/khaleefa.webp",
           "sizeMB": 1,
           "price": 15,
@@ -63,7 +96,7 @@
         },
         {
           "id": "karthikeyan_astra_skin",
-          "name": "Karthikeyan Skin For Astra Traffic",
+          "name": "Karthikeyan",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/karthikeyan.webp",
           "sizeMB": 1,
           "price": 5,
@@ -74,7 +107,7 @@
         },
         {
           "id": "paakkaan_astra_skin",
-          "name": "Paakkaan Skin For Astra Traffic",
+          "name": "Paakkaan",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/pakkaan-astra.webp",
           "sizeMB": 1,
           "price": 5,
