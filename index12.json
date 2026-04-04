@@ -1,5 +1,5 @@
 {
-  "appVersion": "1.0.7",
+  "appVersion": "1.0.11",
 
   "coinsPerAd": 15,
 
@@ -7,25 +7,25 @@
     {
       "id": "vehicle",
       "name": "Vehicle",
-      "json": "vehicle.json",
+      "json": "releases/vehicle/vehicle.json",
       "icon": "vehicle"
     },
     {
       "id": "livery",
       "name": "Livery",
-      "json": "livery.json",
+      "json": "releases/liveries/livery.json",
       "icon": "livery"
     },
     {
       "id": "traffic",
       "name": "Traffic",
-      "json": "traffic.json",
+      "json": "releases/traffic/traffic.json",
       "icon": "traffic"
     },
     {
       "id": "template",
       "name": "template",
-      "json": "template.json",
+      "json": "releases/templates/template.json",
       "icon": "map"
     }
   ]
