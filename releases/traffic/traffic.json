@@ -7,6 +7,24 @@
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
       "items": [
         {
+          "id": "radio_mod_v1",
+          "name": "DIY Radio Mod",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/radio/radio.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/music_player_v1.bsk",
+          "fileName": "radio_player_v1.bsk",
+          "updated": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "astra",
+      "name": "Astra",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
+      "items": [
+        {
           "id": "traffic_bsk_zedastra",
           "name": "Astra Vocal Traffic",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_vocal.webp",
