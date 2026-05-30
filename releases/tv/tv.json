@@ -1,0 +1,23 @@
+{
+  "category": "tv",
+  "groups": [
+    {
+      "id": "tv",
+      "name": "BMR TV",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/bmrtv.webp",
+      "items": [
+        {
+          "id": "akbda_grand_bmr_tv",
+          "name": "TV Example for BMR",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/bmrtv.webp",
+          "sizeMB": 40,
+          "price": 10,
+          "isSecured": false,
+          "download": "https://github.com/amnihal/BSK-Companion/releases/download/tv/bmrtv.mp4",
+          "fileName": "bmrtv.mp4",
+          "updated": "2026-05-30"
+        }
+      ]
+    }
+  ]
+}
