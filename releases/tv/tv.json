@@ -8,7 +8,7 @@
       "items": [
         {
           "id": "akbda_grand_bmr_tv",
-          "name": "TV Example for BMR",
+          "name": "BMR v2 TV(android v12)",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/bmrtv.webp",
           "sizeMB": 40,
           "price": 10,
