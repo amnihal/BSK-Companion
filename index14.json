@@ -32,7 +32,7 @@
       "id": "tv",
       "name": "tv",
       "json": "releases/tv/tv.json",
-      "icon": "tv"
+      "icon": "pack"
     }
   ]
 }
