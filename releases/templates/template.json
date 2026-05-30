@@ -7,13 +7,13 @@
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
       "items": [
         {
-          "id": "akbda_grand_bmr_template",
+          "id": "akbda_grand_bmr_template_v2",
           "name": "Grand BMR Template",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
           "sizeMB": 1,
           "price": 5,
           "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/grand_bmr_template.png",
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/grand_bmr_template_v2.png",
           "fileName": "grand_bmr_template_v2.png",
           "updated": "2026-05-30"
         }
