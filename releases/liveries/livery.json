@@ -7,6 +7,28 @@
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
       "items": [
         {
+          "id": "narasimha_bmr_skin",
+          "name": "Maari Skin For Auto Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/narasimha.webp",
+          "sizeMB": 5,
+          "price": 20,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/narasimha.png",
+          "fileName": "narasimha_bmr_skin.png",
+          "updated": "2026-06-01"
+        },
+        {
+          "id": "kochukomban_bmr_skin",
+          "name": "Kochukomban",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/kochukomban.webp",
+          "sizeMB": 5,
+          "price": 20,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/kochukomban.png",
+          "fileName": "kochukomban_bmr_skin.png",
+          "updated": "2026-04-15"
+        },
+        {
           "id": "nazco_bmr_skin",
           "name": "Nazco",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/nazco.webp",
@@ -26,17 +48,6 @@
           "isSecured": false,
           "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/jayalakshmi.png",
           "fileName": "jayalakshmi_bmr_skin.png",
-          "updated": "2026-04-15"
-        },
-        {
-          "id": "kochukomban_bmr_skin",
-          "name": "Kochukomban",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/kochukomban.webp",
-          "sizeMB": 5,
-          "price": 20,
-          "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/kochukomban.png",
-          "fileName": "kochukomban_bmr_skin.png",
           "updated": "2026-04-15"
         },
         {
