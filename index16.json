@@ -27,12 +27,6 @@
       "name": "template",
       "json": "releases/templates/template.json",
       "icon": "map"
-    },
-    {
-      "id": "tv",
-      "name": "tv",
-      "json": "releases/tv/tv.json",
-      "icon": "pack"
     }
   ]
 }

@@ -13,7 +13,7 @@
           "sizeMB": 5,
           "price": 20,
           "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/narasimha.png",
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/narasimha_v2.png",
           "fileName": "narasimha_bmr_skin.png",
           "updated": "2026-06-01"
         },
@@ -24,7 +24,7 @@
           "sizeMB": 5,
           "price": 20,
           "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/kochukomban.png",
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/kochukomban_v2.png",
           "fileName": "kochukomban_bmr_skin.png",
           "updated": "2026-04-15"
         },
@@ -57,7 +57,7 @@
           "sizeMB": 1,
           "price": 10,
           "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/vibranze.png",
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bmr/vibranze_v2.png",
           "fileName": "vibranze_bmr_skin.png",
           "updated": "2026-04-15"
         }
