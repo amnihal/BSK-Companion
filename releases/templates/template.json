@@ -25,7 +25,7 @@
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
       "items": [
         {
-          "id": "bsk3__template",
+          "id": "bsk3_template",
           "name": "BSK3 Template",
           "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
           "sizeMB": 1,
