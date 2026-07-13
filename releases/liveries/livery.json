@@ -2,6 +2,35 @@
   "category": "livery",
   "groups": [
     {
+      "id": "sreechakra_skin",
+      "name": "Sreechakra",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/vehicle_sreechakra.webp",
+      "items": [
+        {
+          "id": "sana_skin",
+          "name": "SANA",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/sana.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/sreechakra/sana_skin.png",
+          "fileName": "sana_skin.png",
+          "updated": "2026-13-07"
+        },
+        {
+          "id": "tabbu_skin",
+          "name": "TABBU ",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/tabbu.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/sreechakra/tabbu_skin.png",
+          "fileName": "tabbu_skin.png",
+          "updated": "2026-13-07"
+        }
+      ]
+    },
+    {
       "id": "grand_bmr",
       "name": "Grand BMR",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
