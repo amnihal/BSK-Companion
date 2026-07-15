@@ -1,6 +1,24 @@
 {
   "category": "traffic",
   "groups": [
+    {
+      "id": "scania_traffic",
+      "name": "Free Scania Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/scania/scania_traffic.webp",
+      "items": [
+        {
+          "id": "traffic_scania_bsk",
+          "name": "Scania Metrolink Traffic",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/scania/scania_traffic.webp",
+          "sizeMB": 2,
+          "price": 0,
+          "isSecured": true,
+          "download": "https://keralamods.uk/bsk/scania_traffic_bsk.bsk",
+          "fileName": "traffic_bsk_scania.bsk",
+          "updated": "2026-07-16"
+        }
+      ]
+    },
     
     {
       "id": "astra",
