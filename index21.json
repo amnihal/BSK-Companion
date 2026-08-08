@@ -1,5 +1,5 @@
 {
-  "appVersion": "1.1.1",
+  "appVersion": "1.1.7",
 
   "coinsPerAd": 16,
 
@@ -24,7 +24,7 @@
     },
     {
       "id": "template",
-      "name": "template",
+      "name": "Template",
       "json": "releases/templates/template.json",
       "icon": "map"
     }
