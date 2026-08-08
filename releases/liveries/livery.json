@@ -5,6 +5,7 @@
       "id": "sreechakra_skin",
       "name": "Sreechakra",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/vehicle_sreechakra.webp",
+      "devId":"",
       "items": [
         {
           "id": "holymariya_skin",
@@ -56,6 +57,7 @@
       "id": "grand_bmr",
       "name": "Grand BMR",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
+      "devId":"",
       "items": [
         {
           "id": "narasimha_bmr_skin",
@@ -118,6 +120,7 @@
       "id": "astra",
       "name": "Astra",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
+      "devId":"",
       "items": [
         {
           "id": "norway_astra_skin",
@@ -235,6 +238,7 @@
       "id": "avtr",
       "name": "AVTR",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
+      "devId":"",
       "items": [
         {
           "id": "black_avtr_skin",
@@ -297,6 +301,7 @@
       "id": "auto",
       "name": "Auto",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "devId":"",
       "items": [
         {
           "id": "maari_auto_skin",
@@ -337,6 +342,7 @@
       "id": "zedt",
       "name": "Zedone Traffic Beta",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/redSingam_k2.webp",
+      "devId":"",
       "items": [
         {
           "id": "singam_zedone_skin",
@@ -399,6 +405,7 @@
       "id": "bsk3",
       "name": "BSK3",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
+      "devId":"",
       "items": [
         {
           "id": "bsk3_beauty_rajagouda",

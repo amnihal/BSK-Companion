@@ -5,6 +5,7 @@
       "id": "scania_traffic",
       "name": "Free Scania Traffic",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/scania/scania_traffic.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_scania_bsk",
@@ -24,6 +25,7 @@
       "id": "astra",
       "name": "Astra",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_bsk_zedastra",
@@ -53,6 +55,7 @@
       "id": "zedone",
       "name": "Zedone",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/zedone-beta.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_zed1_bsk",
@@ -82,6 +85,7 @@
       "id": "autorickshaw",
       "name": "Autorickshaw",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_autorickshaw_bsk",
@@ -100,6 +104,7 @@
       "id": "jcb",
       "name": "JCB",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb/jcb.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_jcb_bsk",

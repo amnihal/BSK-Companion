@@ -5,6 +5,7 @@
       "id": "template_sreechakra",
       "name": "Sreechakra Coach Template",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/vehicle_sreechakra.webp",
+      "devId":"",
       "items": [
         {
           "id": "sr_template",
@@ -23,6 +24,7 @@
       "id": "bsk3_insd",
       "name": "BSK3 INSD nameboard",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/bsk3_insd.webp",
+      "devId":"",
       "items": [
         {
           "id": "bsk3_insd_template",
@@ -41,6 +43,7 @@
       "id": "bsk3_template",
       "name": "BSK3 Template",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
+      "devId":"",
       "items": [
         {
           "id": "bsk3_template",
@@ -59,6 +62,7 @@
       "id": "bmrv2",
       "name": "Grand BMR",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bmr/grandbmr.webp",
+      "devId":"",
       "items": [
         {
           "id": "akbda_grand_bmr_template_v2",
@@ -88,6 +92,7 @@
       "id": "base_game_traffic",
       "name": "Base Game Traffic",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/base/base_traffic.webp",
+      "devId":"",
       "items": [
         
         {
@@ -118,6 +123,7 @@
       "id": "avtr",
       "name": "AVTR",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_avtr_template",
@@ -136,6 +142,7 @@
       "id": "auto",
       "name": "Auto",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "devId":"",
       "items": [
         {
           "id": "traffic_auto_template",
@@ -154,6 +161,7 @@
       "id": "astra",
       "name": "Astra",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
+      "devId":"",
       "items": [
         {
           "id": "Astra traffic template",
@@ -172,6 +180,7 @@
       "id": "zedone",
       "name": "Zedone",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/zedone-beta.webp",
+      "devId":"",
       "items": [
         {
           "id": "zedone traffic template",
