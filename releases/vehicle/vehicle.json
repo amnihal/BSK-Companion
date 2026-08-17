@@ -2,6 +2,25 @@
   "category": "vehicle",
   "groups": [
     {
+      "id": "avtr_v2",
+      "name": "LEYLAND AVTR UPDATED",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
+      "devId":"dudemods",
+      "items": [
+        {
+          "id": "leyland_avtr_bsk_v2",
+          "name": "Leyaland AVTR Tipper",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
+          "sizeMB": 17,
+          "price": 40,
+          "isSecured": true,
+          "download": "https://keralamods.uk/bsk/avtr_tipper_dudemods_v2.bsk",
+          "fileName": "leyland_avtr_bsk_v2.zip",
+          "updated": "2026-08-17"
+        }
+      ]
+    },
+    {
       "id": "sreechakra_coach",
       "name": "Sreechakra Coach",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/sreechakra/vehicle_sreechakra.webp",
@@ -49,26 +68,8 @@
           "updated": "2026-06-03"
         }
       ]
-    },
-    {
-      "id": "avtr",
-      "name": "LEYLAND AVTR",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
-      "devId":"",
-      "items": [
-        {
-          "id": "leyland_avtr_bsk_v1",
-          "name": "Leyaland AVTR Tipper",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
-          "sizeMB": 15,
-          "price": 40,
-          "isSecured": true,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/vehicle/avtr/avtr_tipper_dudemods.bsk",
-          "fileName": "leyland_avtr_bsk_v1.zip",
-          "updated": "2026-02-14"
-        }
-      ]
     }
+    
     
   ]
 }
