@@ -5,7 +5,7 @@
       "id": "ksrtc_traffic",
       "name": "Ksrtc Traffic",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/ksrtc_traffic/ksrtc_traffic.webp",
-      "devId":"",
+      "devId":"dudemods",
       "items": [
         {
           "id": "ksrtc_traffic_bsk",
@@ -14,7 +14,7 @@
           "sizeMB": 3,
           "price": 5,
           "isSecured": true,
-          "download": "https://keralamods.uk/bsk/ksrtc_trafficmod_bsk_v1.bsk.bsk",
+          "download": "https://keralamods.uk/bsk/ksrtc_trafficmod_bsk_v1.bsk",
           "fileName": "traffic_bsk_ksrtc.bsk",
           "updated": "2026-09-21"
         }
