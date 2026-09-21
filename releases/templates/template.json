@@ -14,9 +14,9 @@
           "sizeMB": 1,
           "price": 5,
           "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/ksrtc_template.png",
-          "fileName": "sreechakra_template.png",
-          "updated": "2026-02-13"
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/ksrtc_traffic_template.png",
+          "fileName": "ksrtc_traffic_template.png",
+          "updated": "2026-09-21"
         }
       ]
     },
@@ -158,25 +158,6 @@
       ]
     },
     {
-      "id": "auto",
-      "name": "Auto",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
-      "devId":"",
-      "items": [
-        {
-          "id": "traffic_auto_template",
-          "name": "Auto Traffic Template",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
-          "sizeMB": 1,
-          "price": 5,
-          "isSecured": false,
-          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/auto_template.png",
-          "fileName": "auto_template.png",
-          "updated": "2026-02-12"
-        }
-      ]
-    },
-    {
       "id": "astra",
       "name": "Astra",
       "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
@@ -192,6 +173,25 @@
           "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/astra_traffic_template.png",
           "fileName": "astra_traffic_template.png",
           "updated": "2026-01-31"
+        }
+      ]
+    },
+    {
+      "id": "auto",
+      "name": "Auto",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "devId":"",
+      "items": [
+        {
+          "id": "traffic_auto_template",
+          "name": "Auto Traffic Template",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+          "sizeMB": 1,
+          "price": 5,
+          "isSecured": false,
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/auto_template.png",
+          "fileName": "auto_template.png",
+          "updated": "2026-02-12"
         }
       ]
     },
